@@ -1,2 +1,2 @@
 # FXCM-Algorithmic-Trading
-A number of different trading classes and algorithms leveraging the API from the forex brokerage FXCM 
+Multiple algorithmic trading strategies leveraging the FXCM brokerage API
